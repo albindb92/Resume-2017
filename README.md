@@ -6,7 +6,7 @@ You'll create a personal web page to show off your work. We will test your HTML 
 
 The end result will be a portfolio that you can deploy publicly! Here's a sample of what this could look like:
 
-[Sample Portfolio](https://screencloud.net/v/jecdg)
+![Sample Portfolio](http://res.cloudinary.com/albindb92/image/upload/v1500292450/Capture-resume_fgsglw.png)
 
 ## What You'll Learn
 
